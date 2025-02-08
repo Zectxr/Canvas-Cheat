@@ -1,6 +1,6 @@
 # Canvas-Cheat
 
-**Introducing Canva's Cheat: Your Secret Study Buddy**
+**Introducing Canva's Cheat**
 
 Are you tired of struggling with complicated questions during exams? Do you wish you had a magical tool to help you answer them with confidence? Look no further! Canva's Cheat is here to help.
 
