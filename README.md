@@ -20,6 +20,7 @@ Our platform integrates with top AI tools like ChatGPT, DeepSeek, and more, to p
 
 Don't let difficult questions hold you back. With Canva's Cheat, you'll have the upper hand in any exam. Join our community today and discover a smarter way to study.
 
+Interested? Pre-register for your 7 days trial! 
 https://discord.gg/mgupmP7T86
 
 ![Autobump](https://github.com/Zectxr/Canvas-Cheat/blob/main/CANVAS.png)
