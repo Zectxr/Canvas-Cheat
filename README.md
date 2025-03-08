@@ -13,8 +13,10 @@ Our platform integrates with top AI tools like ChatGPT, DeepSeek, and more, to p
 **How it Works**
 
 1. Choose your preferred AI tool
-2. Ask your question, and our AI will provide a detailed answer 
+2. Ask your question, and our AI will provide a detailed answer ``
 3. Use the answer to ace your exam, without leaving any detectable traces
+
+![Demo](https://github.com/Zectxr/Canvas-Cheat/blob/main/demo.gif)
 
 **Stay Ahead of the Game**
 
@@ -22,3 +24,4 @@ Don't let difficult questions hold you back. With Canva's Cheat, you'll have the
 https://discord.gg/mgupmP7T86
 
 ![Autobump](https://github.com/Zectxr/Canvas-Cheat/blob/main/CANVAS.png)
+
